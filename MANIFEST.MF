@@ -1,0 +1,2 @@
+Main-Class: DestinationHashGenerator
+Class-Path: jackson-databind-2.15.0.jar jackson-core-2.15.0.jar jackson-annotations-2.15.0.jar
